@@ -784,8 +784,9 @@ h4 {
 }
 
 .tc-white {
-    color: #9A3709!important;
-    text-shadow: 0 0 9px black;
+    color: #A6674C!important;
+    text-shadow: 0 0 3px black;
+    background-color: rgba(6, 6, 6, 0.6);
 }
 .remplace-h2{
     color: #A6674C;
